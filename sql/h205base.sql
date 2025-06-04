@@ -39,7 +39,8 @@ LOCK TABLES `abonnes` WRITE;
 /*!40000 ALTER TABLE `abonnes` DISABLE KEYS */;
 INSERT INTO `abonnes` VALUES
 (1,'Patrice','Gommery','mmi24x01'),
-(2,'Florent','Libbrecht','mmi24x99');
+(2,'Florent','Libbrecht','mmi24x99'),
+(3,'Fabrice','Meuzeret','mmi24z01');
 /*!40000 ALTER TABLE `abonnes` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
